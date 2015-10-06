@@ -1,6 +1,6 @@
 # Ouskah
 
-Mes ami(e)s m'appellent Ouskah
+Ouskah pour les ami(e)s
 
 Curieux et toujours motivé pour apprendre et partager des connaissances
 
