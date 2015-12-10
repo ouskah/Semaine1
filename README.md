@@ -9,6 +9,8 @@ Curieux et toujours motivé pour apprendre et partager des connaissances
 ## *Formation*
     * Simplonline
     
+    * Open Classrooms
+    
     * MOOCs : Développement web-mobile & Big Data
 
     
