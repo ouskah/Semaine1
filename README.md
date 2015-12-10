@@ -17,7 +17,7 @@ Curieux et toujours motivé pour apprendre et partager des connaissances
 
 ## *Réalisations*
 
-* Création site web pour une association sous Wordpress (very long time)
+* Création site web pour une association sous Wordpress
     
 * Création d'applications web Ruby on Rails ou Django (en cours)
     
