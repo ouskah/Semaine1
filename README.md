@@ -17,11 +17,11 @@ Curieux et toujours motivé pour apprendre et partager des connaissances
 
 ## *Réalisations*
 
-* Création site web pour une association sous Wordpress
+* ~Création site web pour une association sous Wordpress~
     
 * Création d'applications web Ruby on Rails ou Django (en cours)
     
-* Création d'applications mobiles:  Meteor & Cordova (en cours)
+* Création d'applications mobiles:  Meteor ou Cordova (en cours)
 
 
 
